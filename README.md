@@ -1,5 +1,5 @@
 # Cat-Runner
-Cat runner for Video game design at LSU
+Cat runner for Video Game Design at LSU
 
 Used free assets from Unity Asset Store to create an endless runner game. 
 
